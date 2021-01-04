@@ -1,0 +1,99 @@
+/*for view invoice page(img class)*/
+.mylogo
+{
+/*width:215px;*/ 
+height:62px;
+margin-top:1px;
+}
+
+.imginvoice
+{
+width:100%!important;
+margin-top:10px !important;
+}
+/*for listing page btn*/
+.btn-group-sm .btn, .btn-group-sm .input-group-btn .btn, .btn.btn-sm, .input-group-btn .btn.btn-sm
+{
+    padding: 5px 5px!important;
+}
+.exportbtn
+{
+	margin-top:-72px; 
+	margin-left:161px;
+}
+.main-header,.skin-blue .navbar
+{
+	background-color:#fff!important;/*000 fff*/
+}
+.skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a 
+{
+	background: #EF3F42;
+    border-left-color: #EF3F42;
+}
+.sidebar-menu, .main-sidebar .user-panel, .sidebar-menu>li.header
+{
+	background-color:#fff!important;
+	color:#000;
+}
+.skin-blue .sidebar-menu>li>a {
+    color: #000!important;
+}
+.btn-group-raised .btn.btn-primary, .btn-group-raised .input-group-btn .btn.btn-primary, .btn.btn-fab.btn-primary, .btn.btn-raised.btn-primary, .input-group-btn .btn.btn-fab.btn-primary, .input-group-btn .btn.btn-raised.btn-primary
+{
+	background-color:#EF3F42 !important;
+}
+.box .box-header .box-title
+{
+	color:#fff!important;
+}
+.box .box-header
+{
+	background-color:#EF3F42!important;
+}
+/*listing data btn
+.btn-group-sm .btn, .btn-group-sm .input-group-btn .btn, .btn.btn-sm, .input-group-btn .btn.btn-sm
+{
+	 padding: 1px 0px!important;
+}
+*/
+.bkcolor
+{
+	background-color:#EF3F42!important;
+	color:#fff!important;
+}
+/*for login page btn*/
+.btn.btn-raised.btn-primary,
+.btn-group-raised .btn.btn-primary, .btn-group-raised .input-group-btn .btn.btn-primary, .btn.btn-fab.btn-primary, .btn.btn-raised.btn-primary, .input-group-btn .btn.btn-fab.btn-primary, .input-group-btn .btn.btn-raised.btn-primary
+{
+	background-color:#EF3F42!important;
+}
+/****for sales team css****/
+.skin-blue .sidebar-menu>li>.treeview-menu {
+    background: #000!important;
+}
+.skin-blue a, .skin-blue a:hover, .skin-blue a:focus
+{
+	color:#fff!important;
+}
+/*to add fabricator,contractor,etc in list btn class*/
+.btnadd
+{
+	margin-right:14px!important;
+	margin-top:-50px!important;
+}
+.editbtn
+{
+background-color:#3d9970!important;
+width:80px!important;
+
+}
+.invoicetbtn
+{
+background-color:#3d9970!important;
+
+
+}
+.pagebtn
+{
+width:65px!important;
+}

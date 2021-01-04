@@ -1,0 +1,115 @@
+[11-Dec-2019 17:11:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[11-Dec-2019 17:27:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[11-Dec-2019 17:27:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/ListAddres.php on line 9
+[11-Dec-2019 17:27:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/ListAddres.php on line 11
+[11-Dec-2019 17:46:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[11-Dec-2019 17:46:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[11-Dec-2019 17:46:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:30:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:07 UTC] PHP Warning:  include_once(database/dbconfig.php): failed to open stream: No such file or directory in /home/indian/public_html/Booking/bookingapis/updateProfile.php on line 3
+[12-Dec-2019 08:31:07 UTC] PHP Warning:  include_once(): Failed opening 'database/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/indian/public_html/Booking/bookingapis/updateProfile.php on line 3
+[12-Dec-2019 08:31:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/ListAddres.php on line 9
+[12-Dec-2019 08:31:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/ListAddres.php on line 11
+[12-Dec-2019 08:31:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/fromTolocList.php on line 9
+[12-Dec-2019 08:31:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/fromTolocList.php on line 11
+[12-Dec-2019 08:31:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[12-Dec-2019 08:31:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[12-Dec-2019 08:31:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[12-Dec-2019 08:31:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/login.php on line 8
+[12-Dec-2019 08:31:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/login.php on line 9
+[12-Dec-2019 08:31:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[17-Dec-2019 16:50:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[17-Dec-2019 16:50:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[17-Dec-2019 16:50:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[17-Dec-2019 16:50:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[17-Dec-2019 16:50:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[17-Dec-2019 16:50:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[17-Dec-2019 16:51:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[17-Dec-2019 16:51:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[17-Dec-2019 16:51:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[17-Dec-2019 17:13:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[17-Dec-2019 17:13:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[17-Dec-2019 17:13:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[17-Dec-2019 17:13:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[17-Dec-2019 17:13:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[17-Dec-2019 17:13:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:17:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:17:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[18-Dec-2019 08:17:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:18:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:18:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[18-Dec-2019 08:18:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:27:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:27:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:27:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:28:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:29:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:29:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:29:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:30:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:30:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:30:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:30:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:30:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:30:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:31:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:31:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:31:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:31:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:32:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:32:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:32:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:32:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:32:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:32:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:32:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:32:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:32:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:32:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:32:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:32:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:33:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:33:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:33:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:33:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:33:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:33:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:33:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:33:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:33:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:33:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:33:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:33:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:33:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:33:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:33:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 12
+[18-Dec-2019 08:34:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:34:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 11
+[18-Dec-2019 08:34:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 14
+[18-Dec-2019 08:34:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:34:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[18-Dec-2019 08:34:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:36:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:36:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[18-Dec-2019 08:36:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 16
+[18-Dec-2019 08:37:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:37:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[18-Dec-2019 08:37:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:49:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:49:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[18-Dec-2019 08:49:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:50:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/dbcon.php on line 17
+[18-Dec-2019 08:50:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 10
+[18-Dec-2019 08:50:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/listBus.php on line 6
+[18-Dec-2019 08:50:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:50:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/listBus.php on line 6
+[18-Dec-2019 08:50:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
+[18-Dec-2019 08:52:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'indian_tracker'@'localhost' (using password: YES) in /home/indian/public_html/Booking/bookingapis/listBus.php on line 6
+[18-Dec-2019 08:52:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indian/public_html/Booking/bookingapis/listBus.php on line 13
